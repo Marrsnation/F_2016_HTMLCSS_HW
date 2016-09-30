@@ -26,7 +26,7 @@ Your going to create a simple Barnard News site! Follow the instructions below. 
 ![donut](https://github.com/ADDA-html-css/F_2016_HTMLCSS_HW/blob/master/week2/donuts.png)
 
 ## Read this article
-- [CSS Tricks: Box Model](https://css-tricks.com/the-css-box-model/)
+- [Box Model](https://www.sitepoint.com/web-foundations/css-box-model/)
 
 ## Watch these videos! 
 + Watch [Don't Fear the Browser - Developer Tools & Vanilla Ice Cream](http://www.dontfeartheinternet.com/html/html) (3:35)
