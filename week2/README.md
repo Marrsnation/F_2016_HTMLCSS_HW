@@ -22,6 +22,9 @@ Your going to create a simple Barnard News site! Follow the instructions below. 
 - BONUS, add image as a logo in front of the title, this image should be a square.
 - BONUS, change the font.
 
+## Example
+![donut](https://github.com/ADDA-html-css/F_2016_HTMLCSS_HW/blob/master/week2/donuts.png)
+
 ## Read this article
 - [CSS Tricks: Box Model](https://css-tricks.com/the-css-box-model/)
 
