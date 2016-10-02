@@ -25,11 +25,11 @@ Your going to create a simple Barnard News site! Follow the instructions below. 
 ## Example
 ![donut](https://github.com/ADDA-html-css/F_2016_HTMLCSS_HW/blob/master/week2/donuts.png)
 
-## Read this article
-- [Box Model](https://www.sitepoint.com/web-foundations/css-box-model/)
+## Read
+- READ [Box Model](https://www.sitepoint.com/web-foundations/css-box-model/)
+- Read [Building Your First Web Page](http://learn.shayhowe.com/html-css/building-your-first-web-page/)
 
-## Watch these videos! 
+## Watch 
++ Watch [Don't Fear Specificity](http://www.dontfeartheinternet.com/06-specificity/) 
 + Watch [Don't Fear the Browser - Developer Tools & Vanilla Ice Cream](http://www.dontfeartheinternet.com/html/html) (3:35)
-+ Read [Building Your First Web Page](http://learn.shayhowe.com/html-css/building-your-first-web-page/)
-+ Watch [Don't Fear Starting from Scratch Part 1: HTML](http://www.dontfeartheinternet.com/html/don%E2%80%99t-fear-starting-from-scratch)
 
